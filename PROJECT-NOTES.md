@@ -4,6 +4,7 @@ Built October 20, 2026 for Foundational Marketing Hub. A single-page static site
 
 ## Files
 
+- **Preview link:** https://first-chronicles.github.io/Aloha-Pool-Design/ (GitHub Pages). `.github/workflows/pages.yml` publishes `website/` on every push to `main` that touches it. One-time setup: repo Settings > Pages > Source = "GitHub Actions". The canonical and Open Graph tags still point to alohapooldesign.com, which is correct for launch.
 - `aloha-pool-design-website.zip` (5.5 MB): the `website/` folder, ready to upload. Upload the folder's contents to the web root so `index.html` sits at the top level. Rebuild the ZIP after any edit.
 
 - `website/index.html`: the page, JSON-LD schema and meta tags
